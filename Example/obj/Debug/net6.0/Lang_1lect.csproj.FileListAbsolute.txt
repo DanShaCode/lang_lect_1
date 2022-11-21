@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lang_1lect\bin\Debug\net6.0\Lang_1lect.exe
+C:\Users\user\Desktop\Lang_1lect\bin\Debug\net6.0\Lang_1lect.deps.json
+C:\Users\user\Desktop\Lang_1lect\bin\Debug\net6.0\Lang_1lect.runtimeconfig.json
+C:\Users\user\Desktop\Lang_1lect\bin\Debug\net6.0\Lang_1lect.dll
+C:\Users\user\Desktop\Lang_1lect\bin\Debug\net6.0\Lang_1lect.pdb
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.AssemblyInfo.cs
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.dll
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\refint\Lang_1lect.dll
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.pdb
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\Lang_1lect.genruntimeconfig.cache
+C:\Users\user\Desktop\Lang_1lect\obj\Debug\net6.0\ref\Lang_1lect.dll
